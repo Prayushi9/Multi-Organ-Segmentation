@@ -17,8 +17,8 @@ The process of Multiple Organ Segmentation is the process of separating multiple
 - mos_tr.py - This file contains the methodology code to run the model.
 
 # Model Description
-- It is a three dimensional model.
-- The model can detect the following organs in a CT/MRI scan:
+It is a three dimensional model.
+The model can detect the following organs in a CT/MRI scan:
 - (1) spleen
 - (2) right kidney
 - (3) left kidney
