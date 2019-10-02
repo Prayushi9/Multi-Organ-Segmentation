@@ -17,21 +17,21 @@ The process of Multiple Organ Segmentation is the process of separating multiple
 - mos_tr.py - This file contains the methodology code to run the model.
 
 # Model Description
-It is a three dimensional model.
-The model can detect the following organs in a CT/MRI scan:
-- (1) spleen
-- (2) right kidney
-- (3) left kidney
-- (4) gallbladder
-- (5) esophagus
-- (6) liver
-- (7) stomach
-- (8) aorta
-- (9) inferior vena cava
-- (10) portal vein and splenic vein
-- (11) pancreas
-- (12) right adrenal gland
-- (13) left adrenal gland
+- It is a three dimensional model.
+- The model can detect the following organs in a CT/MRI scan:
+(1) spleen
+(2) right kidney
+(3) left kidney
+(4) gallbladder
+(5) esophagus
+(6) liver
+(7) stomach
+(8) aorta
+(9) inferior vena cava
+(10) portal vein and splenic vein
+(11) pancreas
+(12) right adrenal gland
+(13) left adrenal gland
 - It contains residual connections along with skip connections.
 - Input contains 1-channels
 - Output contains 13 channels containing the above mentioned organs.
