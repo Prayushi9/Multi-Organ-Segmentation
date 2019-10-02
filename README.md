@@ -18,7 +18,7 @@ The process of Multiple Organ Segmentation is the process of separating multiple
 
 # Model Description
 - It is a three dimensional model.
-- The model can detect the following organs in a CT/MRI scan:
+- The model can segment the following organs in a CT/MRI scan:
 (1) spleen
 (2) right kidney
 (3) left kidney
